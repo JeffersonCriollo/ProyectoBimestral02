@@ -51,11 +51,17 @@ Tarea correspondiente, con los siguientes archivos:
 una estructura similar a la siguiente:
 
 o Introducción;
+
 o Definición del problema;
+
 o Preprocesamiento de datos;
+
 o Análisis exploratorio de datos;
+
 o Modelado predictivo: configuración experimental y resultados obtenidos;
+
 o Conclusiones, limitaciones y trabajos futuros;
+
 o Anexos (opcional).
 
 • Un cuaderno Jupyter/RMarkdown/Colab dinámico listo para ejecutarse que genere tu informe final con todo
